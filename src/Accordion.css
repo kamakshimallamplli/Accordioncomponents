@@ -1,0 +1,24 @@
+.accordion{
+    background-color: green;
+    margin: auto;
+    width: 80%;
+  margin-top: 70px;
+}
+.accordion-header {
+    background-color:rgb(44, 150, 44); /* Background color */
+    color:black; /* Text color */
+    padding: 1rem; /* Padding */
+    cursor: pointer; /* Cursor style */
+    border: 1px solid rgb(44, 150, 44); /* Border */
+  }
+  .accordion-body {
+    padding: 1rem; /* Padding */
+    color:black;
+    background-color: orange;
+    
+    border-top: 1px solid orange; /* Border */
+  }
+  button{
+    background-color: rgb(44, 150, 44) !important;
+
+  }
